@@ -15,7 +15,7 @@ except Exception as e:
 
 # Judul aplikasi
 st.title("Bank Note Authentication App")
-st.write("Aplikasi ini memprediksi apakah bank note asli atau palsu berdasarkan data input.")
+st.write("Aplikasi ini memprediksi apakah bank note asli atau palsu berdasarkan data input. dibuat oleh A11.2022.14784")
 
 # Input data
 st.header("Masukkan Nilai")
